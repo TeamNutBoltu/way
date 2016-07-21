@@ -1,0 +1,2 @@
+# way
+Multipurpose HTML Template
