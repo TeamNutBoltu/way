@@ -2,4 +2,5 @@
 Multipurpose HTML Template
 
 **Contributors:**
-Aftabul Islam
+Aftabul Islam,
+Pronab Roy
